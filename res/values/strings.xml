@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="action_settings">Settings</string>
+    <string name="app_name">Jom Jaring Scheduler</string>
+    
+    <!-- Notification Event [S] -->
+    <string name="title_setting">Settings</string>
+    <string name="button_send">Update Now</string>
+    <string name="toggle_day">Notification A Day Before</string>
+    <string name="toggle_week">Notification Me A Week Before</string>
+    <string name="start_sync">Data Sync Turned On</string>
+    <string name="stop_sync">Data Sync Turned Off</string>
+    <string name="last_update">Last Updated:</string>
+    <string name="button_logout">Logout</string>
+    <!-- Notification Event [E] -->
+    
+    <string name="title_activity_display_event">Event</string>
+    <string name="lblTitle">Title</string>
+    <string name="lblDesc">Description</string>
+    <string name="lblTime">Time</string>
+    <string name="lblDate">Date</string>
+    <string name="notifyTicker">You\'ve Got An Event</string>
+    <string name="title_activity_login">Scheduler by Jom Jaring</string>
+    <string name="title_facebook_login">Facebook Activity</string>
+
+    <!-- For Login [S] -->
+    <string name="loginMainTitle">Please select your login preference</string>
+    <string name="informLogin"><b>Note:</b>
+        We are not, nor planning, to maintain an internal login of our own website. 
+        JOM Jaring will be using your Gmail and Facebook account as our identification platform. 
+        But do not worry, we will not be taking any advantages of your important data. 
+        If you will need more information, please email and 
+        contact us via email at: <b><a href="mailto:jomjaring@gmail.com">jomjaring@gmail.com</a></b> 
+        or visit us at: <b><a href="http://www.jomjaring.com/selfservice/readme">http://www.jomjaring.com/selfservice/readme</a></b>. 
+	</string>
+    <!-- For Login [E] -->
+
+	<!-- For Dialog Boxes[S] -->
+    <string name="title_activity_connectivity_dialog">ConnectivityDialog</string>
+    <string name="btnOK">OK</string>
+    <string name="noConnectivity">You do not have any internet connection, please turn it on.</string>
+    <!-- For Dialog Boxes[E] -->
+
+</resources>

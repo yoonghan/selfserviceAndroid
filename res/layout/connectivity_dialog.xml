@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" 
+    tools:context="com.jaring.jom.selfservice.ConnectivityDialog" >
+
+    <TextView
+        android:id="@+id/txtNoConnectivity"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:clickable="false"
+        android:duplicateParentState="false"
+        android:gravity="center"
+        android:longClickable="false"
+        android:text="@string/noConnectivity" />
+
+    <Button
+        android:id="@+id/btnOK"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="@string/btnOK" />
+
+</LinearLayout>
